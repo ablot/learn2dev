@@ -28,13 +28,8 @@ say_hello('England')
 ```
 
 
-    ---------------------------------------------------------------------------
 
-    NameError                                 Traceback (most recent call last)
 
-    <ipython-input-6-1b41ad2edf5f> in <module>
-    ----> 1 learn2dev.core.say_hello('England')
-    
+    'Hello England!'
 
-    NameError: name 'learn2dev' is not defined
 
